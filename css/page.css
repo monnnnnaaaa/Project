@@ -1,0 +1,25 @@
+.nav-button{
+    display: flex;
+    left: 50%;
+    padding-inline-start: 80%;
+    padding-top: 1%;
+    
+     
+ }
+ .nav-button a{
+     text-decoration: none;
+     color: rgb(114, 42, 42);
+ 
+ }
+ .nav-button a:hover{
+     color:rgb(255, 255, 255);
+ 
+ }
+ 
+ .nav2{
+     /* display: flex; */
+     padding: 0 10px;
+     font-family: 'Readex Pro', sans-serif;
+     font-size: 17px;
+     
+ }
